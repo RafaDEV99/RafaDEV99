@@ -1,5 +1,5 @@
 ![download-1](https://github.com/user-attachments/assets/2aad0979-9fc8-43ee-bbbe-3c0bfc53f72c)
-![Static Badge](https://img.shields.io/badge/This_is_cool!)
+![Static Badge](https://img.shields.io/badge/This_is_very_cool!)
 
 - 👋 Hi, I’m @LionDEV99
 - 👀 I’m interested in programming cool things and testing things!! :D
@@ -10,5 +10,5 @@
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to view your changes.
 --->
