@@ -1,6 +1,6 @@
 ![download-1](https://github.com/user-attachments/assets/2aad0979-9fc8-43ee-bbbe-3c0bfc53f72c)
 
-![Static Badge](https://img.shields.io/badge/just%20the%20message-8A2BE2)
+![Cool Badge](https://img.shields.io/badge/This_is_cool!_:3)
 
 - 👋 Hi, I’m @LionDEV99
 - 👀 I’m interested in programming cool things and testing things!! :D
