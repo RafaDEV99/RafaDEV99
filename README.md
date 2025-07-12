@@ -3,10 +3,6 @@
 
 ![Cool Badge](https://img.shields.io/badge/Men-This_is_cool!_:3-blue)
 
-
-
-
-
 ![Asgore](https://img.shields.io/badge/Hihi%20Asgore%20car%20gif%20:P-8A2BE2)
 
 - 👋 Hi, I’m @LionDEV99
