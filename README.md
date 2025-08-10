@@ -1,8 +1,8 @@
 ![cat :P](https://github.com/user-attachments/assets/2aad0979-9fc8-43ee-bbbe-3c0bfc53f72c)
-![Asgore_car_gif](https://github.com/user-attachments/assets/1b3e0b5b-1b33-4978-beac-3544aee9eb79)
+<!--![Asgore_car_gif](https://github.com/user-attachments/assets/1b3e0b5b-1b33-4978-beac-3544aee9eb79)-->
 
 ![Cool Badge](https://img.shields.io/badge/Men-This_is_cool!_:3-blue)
-<!--![Asgore](https://img.shields.io/badge/Hihi%20Asgore%20car%20gif%20>:D-8A2BE2)-->
+![Asgore](https://img.shields.io/badge/Hihi%20Asgore%20car%20gif%20>:D-8A2BE2)
 
 - 👋 Hi, I’m @LionDEV99
 - 👀 I’m interested in programming cool things and testing things!! :D
