@@ -6,11 +6,13 @@
 
 - 👋 Hi, I’m @LionDEV99
 - 👀 I’m interested in programming cool things and testing things!! :D
-- 🌱 I’m currently learning that I like
+- 🌱 I’m currently learning what I like
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The terminal is not a toaster xD
 - Hope you're doing well in your coding journey!
+
+That's all, folks!
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
