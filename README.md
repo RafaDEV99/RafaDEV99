@@ -10,9 +10,11 @@
 - 💞️ I’m looking to collaborate on ...
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The terminal is not a toaster xD
-- Hope you're doing well in your coding journey!
+- 👍 Hope you're doing well in your coding journey!
 
 That's all, folks!
+
+Look at my cool description :D
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
