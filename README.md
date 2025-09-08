@@ -8,7 +8,7 @@
 👋 Hi, I’m @RafaDEV99, a Spanish developer who is currently interested in programming cool projects, 
 low-level programming with C, Rust, and more languages! I also sometimes like making small games to
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
-Currently, I`m working on the CrraBloom project
+Currently, I'm working on the CrraBloom project (Alpha now, by the way).
 
 **Here are some facts about me!**
 - 💞️ I’m looking to collaborate on interesting things!
@@ -16,10 +16,7 @@ Currently, I`m working on the CrraBloom project
 - ⚡ Fun fact: The terminal is not a monster xD
 
 # Ending:
-That's all, folks!
-
-The only one at github.com
-Yipiiii 😆
+Thanks for reading! 😄
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
