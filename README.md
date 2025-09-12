@@ -15,7 +15,6 @@ Currently, I'm working on the CrraBloom project (Alpha now, by the way).
 - 💞️ I’m looking to collaborate on interesting things!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The terminal is not a monster xD
-- Epic
 
 # Ending:
 Thanks for reading! 😄
