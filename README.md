@@ -18,7 +18,7 @@ Currently, I'm working on the CrraBloom project (Alpha now, by the way).
 
 # Ending:
 Thanks for reading! 😄
-**Happy coding!** 
+**Happy coding! :D** 
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
