@@ -5,7 +5,7 @@
 ![Cool Badge](https://img.shields.io/badge/Men-This_is_cool!_:3-blue)
 ![Asgore](https://img.shields.io/badge/RafaDEV99%20%20gif%20>:D-8A2BE2)
 
-# About me 🧐:
+# About me 🤔:
 👋 Hi, I’m @RafaDEV99, a Spanish developer who is currently interested in programming cool projects, 
 low-level programming with C, Rust, and more languages! I also sometimes like making small games to
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
