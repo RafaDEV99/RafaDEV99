@@ -15,10 +15,11 @@ Currently, I'm working on the CrraBloom project (Alpha now, by the way).
 - 💞️ I’m looking to collaborate on interesting things!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The terminal is not a monster xD
+- Epic
 
 # Ending:
 Thanks for reading! 😄
-**Happy coding! :D** 
+**Happy coding! :D**
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
