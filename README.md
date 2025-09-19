@@ -11,13 +11,13 @@ low-level programming with C, Rust, and more languages! I also sometimes like ma
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
 Currently, I'm working on the CrraBloom project (In Alpha, now).
 
+# Github stats! 💫
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaDEV99)](https://github.com/anuraghazra/github-readme-stats)
+
 **Here are some facts about me!**
 - 💞️ I’m looking to collaborate on interesting things!
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The terminal is not a monster xD
-
-# Github stats! 💫
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaDEV99)](https://github.com/anuraghazra/github-readme-stats)
 
 # Ending:
 Thanks for reading! 😄
