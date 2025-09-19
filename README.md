@@ -11,8 +11,8 @@ low-level programming with C, Rust, and more languages! I also sometimes like ma
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
 Currently, I'm working on the CrraBloom project (In Alpha, now).
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaDEV99)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-one-beta-21.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats-one-beta-21.vercel.app/api?username=RafaDEV99)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-beta-21.vercel.app/api/top-langs/?username=RafaDEV99)](https://github.com/anuraghazra/github-readme-stats)
 
 
 **Here are some facts about me!**
