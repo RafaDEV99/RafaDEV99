@@ -4,6 +4,7 @@
 
 ![Cool Badge](https://img.shields.io/badge/Men-This_is_cool!_:3-blue)
 ![Main bagde](https://img.shields.io/badge/RafaDEV99%20here%20>:D-8A2BE2)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=RafaDEV99)](https://github.com/anuraghazra/github-readme-stats)
 
 # About me 🤔:
 👋 Hi, I’m @RafaDEV99, a Spanish developer who is currently interested in programming cool projects, 
