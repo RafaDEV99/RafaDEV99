@@ -12,6 +12,7 @@ practice my programming skills. I also like to collaborate on interesting projec
 Currently, I'm working on the CrraBloom project (In Alpha, now).
 
 [![Anurag's GitHub stats](https://github-readme-stats-one-beta-21.vercel.app/api?username=RafaDEV99&theme=one_dark_pro)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-one-beta-21.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 **Here are some facts about me!**
 - 💞️ I’m looking to collaborate on interesting things!
