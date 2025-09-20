@@ -5,8 +5,8 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RafaDEV99%20here%20>:D-8A2BE2">
-  <img src="https://img.shields.io/badge/Men-This_is_cool!_:3-blue">
+  <img src="https://img.shields.io/badge/Rafay%C2%B4s-Profile-blue?style=for-the-badge" alt="Badge">
+  <img src="https://img.shields.io/badge/Oh yea!-purple?&logoColor=white&style=for-the-badge">
 </p>
 
 # About me 🤔:
