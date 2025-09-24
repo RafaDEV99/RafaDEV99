@@ -33,8 +33,7 @@ You can click the Preview link to view your changes.
 --->
 
 <!---
-TODO: Add more in the future :D
-Yep
+TODO: Add more in the future
 --->
 
 -------
