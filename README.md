@@ -1,6 +1,6 @@
 -------
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/2aad0979-9fc8-43ee-bbbe-3c0bfc53f72c">
+  <!--<img src="https://github.com/user-attachments/assets/2aad0979-9fc8-43ee-bbbe-3c0bfc53f72c">-->
   <img width="215" height="215" alt="Cool Cat" src="https://github.com/user-attachments/assets/15422d64-1aef-42d3-9f89-e01d4dba3347" />
 </p>
 
