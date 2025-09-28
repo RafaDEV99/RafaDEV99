@@ -13,7 +13,7 @@
 👋 Hi, I’m @RafaDEV99, a Spanish 🇪🇸 developer who is currently interested in programming cool projects, 
 low-level programming with C, Rust, and more languages! I also sometimes like making small games to
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
-Currently, I'm working on the CrraBloom project (In Alpha, now).
+Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 Thanks for reading! :)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-weld-68.vercel.app/api?username=RafaDEV99&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-weld-68.vercel.app/api/top-langs/?username=RafaDEV99&layout=compact&show_icons=true&include_all_commits=true&theme=holi" /></a> |
