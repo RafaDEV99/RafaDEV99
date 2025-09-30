@@ -26,7 +26,6 @@ Thanks for reading! :)
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: The terminal is not a monster xD
 
-
 # Ending:
 Thanks for reading! 😄
 **Happy coding! :D**
