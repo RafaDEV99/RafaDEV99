@@ -17,7 +17,7 @@ Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 Thanks for reading! :)
 
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-weld-68.vercel.app/api?username=RafaDEV99&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-weld-68.vercel.app/api/top-langs/?username=RafaDEV99&layout=compact&show_icons=true&include_all_commits=true&theme=holi" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-weld-68.vercel.app/api?username=RafaDEV99&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats-ten-weld-68.vercel.app/api/top-langs/?username=RafaDEV99&layout=compact&show_icons=true&theme=holi" /></a> |
 | ------------- | ------------- |
 
 
