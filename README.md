@@ -1,6 +1,5 @@
 --------
 
-
 <p align="center">
   <img width="215" height="215" alt="Cool Cat" src="https://github.com/user-attachments/assets/15422d64-1aef-42d3-9f89-e01d4dba3347" />
 </p>
@@ -36,6 +35,5 @@ Thanks for reading! 😄
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to view your changes.
 --->
-
 
 --------
