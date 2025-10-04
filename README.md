@@ -24,12 +24,12 @@ Thanks for reading! :)
 **Here are some facts about me!**
 - 💞️ I’m looking to collaborate on interesting things!
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: The terminal is not a monster xD
+- ⚡ Fun fact: The terminal is not a monster
 
 # Ending:
 Thanks for reading! 😄
 **Happy coding! :D**
-**And have a Good day! 😁**
+**And have a Good day, and never give up! 😁**
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
