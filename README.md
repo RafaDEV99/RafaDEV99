@@ -20,12 +20,12 @@ Thanks for reading! :)
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://rafay-github-stats.vercel.app/api?username=RafaDEV99&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" />
+        <img align="center" src="https://github-readme-stats-phi-sandy-71.vercel.app/api?username=RafaDEV99&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" />
       </a>
     </td>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://rafay-github-stats.vercel.app/api/top-langs/?username=RafaDEV99&layout=compact&show_icons=true&theme=holi" />
+        <img align="center" src="https://github-readme-stats-phi-sandy-71.vercel.app/api/top-langs/?username=RafaDEV99&layout=compact&show_icons=true&theme=holi" />
       </a>
     </td>
   </tr>
