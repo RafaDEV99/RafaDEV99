@@ -31,8 +31,6 @@ Thanks for reading! :)
   </tr>
 </table>
 
-
-
 **Here are some facts about me!**
 - 💞️ I’m looking to collaborate on interesting things!
 - 😄 Pronouns: he/him
