@@ -15,8 +15,6 @@ low-level programming with C, Rust, and more languages! I also sometimes like ma
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
 Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 
-> Thanks for reading! :)
-
 <table>
   <tr>
     <td>
@@ -38,9 +36,11 @@ Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 - ⚡ Fun fact: The terminal is not a monster
 
 # Ending:
-Thanks for reading! 😄
-**Happy coding! :D**
-**And have a Good day, and never give up! 😁**
+> [!NOTE]
+> Thanks for reading! 😄
+> **And Happy coding! :D**
+> 
+> **Have a Good day, and never give up! 😁**
 
 <!---
 RafaDEV99/RafaDEV99 is a ✨ very special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
