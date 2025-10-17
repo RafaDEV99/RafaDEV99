@@ -14,7 +14,10 @@
 low-level programming with C, Rust, and more languages! I also sometimes like making small games to
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
 Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
-Thanks for reading! :)
+
+> 
+> Thanks for reading! :)
+> 
 
 <table>
   <tr>
