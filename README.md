@@ -47,6 +47,4 @@ RafaDEV99/RafaDEV99 is a ✨ very special ✨ repository because its `README.md`
 You can click the Preview link to view your changes.
 --->
 
-<!--- And remember to add more stuff if needed for an epic profile! --->
-
 --------
