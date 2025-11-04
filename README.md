@@ -19,7 +19,7 @@ Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
   <tr>
     <td>
       <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" src="https://github-readme-stats-phi-sandy-71.vercel.app&&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" />
+        <img align="center" src="https://github-readme-stats-phi-sandy-71.vercel.app&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" />
       </a>
     </td>
     <td>
