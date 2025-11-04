@@ -18,12 +18,12 @@ Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 <table>
   <tr>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/RafaDEV99/github-readme-stats.git">
         <img align="center" src="https://github-readme-stats-rafa-75.vercel.app/api?username=RafaDEV99&show_icons=true&include_all_commits=false&theme=holi" alt="Rafay's github stats" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/anuraghazra/github-readme-stats">
+      <a href="https://github.com/RafaDEV99/github-readme-stats.git">
         <img align="center" src="https://github-readme-stats-rafa-75.vercel.app/api/top-langs/?username=RafaDEV99&layout=compact&show_icons=true&theme=holi" />
       </a>
     </td>
