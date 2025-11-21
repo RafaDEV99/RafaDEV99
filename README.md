@@ -1,7 +1,7 @@
 --------
 
 <p align="center">
-  <img width="215" height="215" alt="Cool Cat" src="./assets/" />
+  <img width="215" height="215" alt="Cool Cat" src="assets/Cool Cat.png" />
 </p>
 
 <p align="center">
