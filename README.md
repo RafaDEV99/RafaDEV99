@@ -1,4 +1,4 @@
---------
+-------------------------------------------------------------------------------
 
 <p align="center">
   <img width="215" height="215" alt="Cool Cat" src="assets/Cool Cat.png" />
@@ -43,4 +43,4 @@ Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 > **Have a Good day, and never give up! 😁**
 > 
 
---------
+-----------------------------------------------------------------------
