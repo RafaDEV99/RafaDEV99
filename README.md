@@ -41,6 +41,5 @@ Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 > **And Happy coding! :D**
 > 
 > **Have a Good day, and never give up! 😁**
-> 
 
 --------------------------------------------------------------------
