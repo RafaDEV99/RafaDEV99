@@ -1,5 +1,4 @@
 ---------------------------------------------------------------------
-
 <p align="center">
   <img width="215" height="215" alt="Cool Cat" src="assets/Cool Cat.png" />
 </p>
@@ -13,7 +12,7 @@
 👋 Hi, I’m @RafaDEV99, a Spanish 🇪🇸 developer who is currently interested in programming cool projects, 
 low-level programming with C, Rust, and more languages! I also sometimes like making small games to
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
-Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
+Currently, I'm working on various projects, and more! So, stay tuned for more!
 
 <table>
   <tr>
@@ -41,5 +40,4 @@ Currently, I'm working on the CrraBloom project (In Alpha, now), and more!
 > **And Happy coding! :D**
 > 
 > **Have a Good day, and never give up! 😁**
-
 ---------------------------------------------------------------
