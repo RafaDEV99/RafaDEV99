@@ -6,6 +6,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Rafay%C2%B4s-Profile-blue?style=for-the-badge" alt="Badge">
   <img src="https://img.shields.io/badge/Oh yea!-purple?&logoColor=white&style=for-the-badge">
+  <img src="https://img.shields.io/badge/Built_With_Ratatui-000?logo=ratatui&logoColor=fff">
 </p>
 
 # About me 🤔:
