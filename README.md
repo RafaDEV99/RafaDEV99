@@ -41,3 +41,4 @@ Currently, I'm working on various projects, and more! So, stay tuned for more!
 > 
 > **Have a Good day, and never give up! 😁**
 ---------------------------------------------------------------
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2340c463&width=500&height=30&lines=I+love+programming!;This+is+epic!)](https://git.io/typing-svg)
