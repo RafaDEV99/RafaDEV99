@@ -12,7 +12,7 @@
 👋 Hi, I’m @RafaDEV99, a Spanish 🇪🇸 developer who is currently interested in programming cool projects, 
 low-level programming with C, Rust, and more languages! I also sometimes like making small games to
 practice my programming skills. I also like to collaborate on interesting projects and learn from them,
-Currently, I'm working on various projects, and more! So, stay tuned for more!
+Currently, I'm working on various projects and more! So, stay tuned for more!
 
 <table>
   <tr>
